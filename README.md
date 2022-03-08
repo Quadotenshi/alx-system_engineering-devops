@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-System Engineering and Devops with ALX School
+This script tells the current working directory
